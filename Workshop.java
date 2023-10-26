@@ -1,8 +1,7 @@
 /**
- * Workshop1
+ * Workshop
  */
-public class Workshop1 {
-
+public class Workshop {
     public static void main(String[] args) {
         
     }
